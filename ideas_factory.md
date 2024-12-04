@@ -2,13 +2,21 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2024-12-04T12:11:55.570Z
+date: 2024-12-04T12:13:53.334Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
 # The Ideas Factory
+
+## Automatic Theater
+
+Mechanical Automatic theater. With shadows and a lamp. Figures randomly appear and disappear.
+
+AI Automatic Theater. AI is connected to a tool that shows characters and make them talk calling functions. we ask the AI to call the functions in sequence to create a scene.
+
+
 
 ## Job posting website
 
