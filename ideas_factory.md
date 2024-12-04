@@ -1,14 +1,14 @@
 ---
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
-published: true
-date: 2024-12-04T08:14:52.827Z
+published: false
+date: 2024-12-04T08:17:11.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
-# 03-01-02-03 Proyectos de Riesgo {#proyectos_de_riesgo}
+# The Ideas Factory
 
 ## personal stylist / wardrobe consultant App {#personal_stylist_wardrobe_consultant_app}
 
