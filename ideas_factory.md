@@ -2,13 +2,34 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2024-12-04T08:17:11.385Z
+date: 2024-12-04T12:11:55.570Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
 # The Ideas Factory
+
+## Job posting website
+
+Create a job posting website with IT jobs.
+
+We can backfill the content scraping other websites.
+
+### Montetization
+
+- Adsense
+- Pro account for alerts
+- Pro account for adveriser
+
+### Competitors
+
+Many:
+
+- [Redditor making 5K/month](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1h400jm/my_job_boards_made_5000_in_november)
+- https://www.moaijobs.com
+- https://www.realworkfromanywhere.com
+
 
 ## personal stylist / wardrobe consultant App {#personal_stylist_wardrobe_consultant_app}
 
