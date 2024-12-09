@@ -2,7 +2,7 @@
 title: Hetzner - Coolify - New Server
 description: Instructions of how to create a new server in Hetzner and add it to Coolify
 published: true
-date: 2024-12-09T13:12:09.295Z
+date: 2024-12-09T13:14:06.246Z
 tags: dev
 editor: markdown
 dateCreated: 2024-12-09T12:42:18.221Z
@@ -61,5 +61,23 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyQ+kmi25GL1OfxHzzKDcutSVCYLe+fE/SjDWlMuSeEj0
 ```
 
 ## Coolify
+
+### Add new server
+
+Servers > Add
+
+- Name
+- IP
+- User: root
+- Private Key: coolify
+
+Next page:
+
+- Wildcard domain: https://zebra.town
+
+Click on `Validate Server & Install Docker Engine`
+
+
+
 
 
