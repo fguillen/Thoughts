@@ -2,7 +2,7 @@
 title: cloud_init_for_ubuntu_24_04_yml
 description: Cloud config for a Hetzner instance
 published: true
-date: 2024-12-09T12:10:49.155Z
+date: 2024-12-09T13:03:19.693Z
 tags: dev
 editor: markdown
 dateCreated: 2024-12-09T12:09:57.562Z
@@ -33,6 +33,7 @@ runcmd:
   - echo "\$nrconf{kernelhints} = -1;" > /etc/needrestart/conf.d/99disable-prompt.conf
   - apt update
   - apt upgrade -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
+  - date > /var/log/cloud_config_setup.log 
   - reboot
 ```
 
