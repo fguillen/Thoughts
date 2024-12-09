@@ -2,7 +2,7 @@
 title: Hetzner - Coolify - New Server
 description: Instructions of how to create a new server in Hetzner and add it to Coolify
 published: true
-date: 2024-12-09T15:08:58.852Z
+date: 2024-12-09T15:09:51.086Z
 tags: dev
 editor: markdown
 dateCreated: 2024-12-09T12:42:18.221Z
@@ -110,7 +110,7 @@ Add this:
       - caddy_0.basicauth.0_admin=$2a$14$wofV/aIIl4cXi7WazpLT/O7BdZ0Vv1JlakkeylgOfZXSGrEHGqCXa
 ```
 
-
+- Restart
 
 
 
