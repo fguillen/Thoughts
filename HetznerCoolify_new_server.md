@@ -2,7 +2,7 @@
 title: Hetzner - Coolify - New Server
 description: Instructions of how to create a new server in Hetzner and add it to Coolify
 published: true
-date: 2024-12-09T13:11:39.261Z
+date: 2024-12-09T13:12:09.295Z
 tags: dev
 editor: markdown
 dateCreated: 2024-12-09T12:42:18.221Z
