@@ -2,7 +2,7 @@
 title: Hetzner - Coolify - New Server
 description: Instructions of how to create a new server in Hetzner and add it to Coolify
 published: true
-date: 2024-12-09T13:14:06.246Z
+date: 2024-12-09T15:08:58.852Z
 tags: dev
 editor: markdown
 dateCreated: 2024-12-09T12:42:18.221Z
@@ -76,6 +76,42 @@ Next page:
 - Wildcard domain: https://zebra.town
 
 Click on `Validate Server & Install Docker Engine`
+
+### Proxy
+
+Replace default for Caddy:
+
+- Server > Proxy > Stop Proxy
+- Switch Proxy > Caddy
+
+### Basic resources
+
+#### Glances
+
+(In Namecheap create a CNAME record: glances.mynewserver.zebra.town -> mynewserver.zebra.town)
+
+- Projects > Add
+- Name: Glances MyNewServer Server
+- Add new Resource > Glances
+- Service Stack > Service Name: glances-mynewserver-zebra-town
+- Service Stack > Services > Glances > Settings
+  - Domains: https://glances.mynewserver.zebra.town
+  
+Click on `Deploy`
+
+##### Basic Auth
+
+- Services Stack > Edit Compose File
+
+Add this:
+
+```
+    labels:
+      - caddy_0.basicauth.0_admin=$2a$14$wofV/aIIl4cXi7WazpLT/O7BdZ0Vv1JlakkeylgOfZXSGrEHGqCXa
+```
+
+
+
 
 
 
