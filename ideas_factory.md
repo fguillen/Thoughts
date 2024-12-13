@@ -2,13 +2,28 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2024-12-04T12:13:53.334Z
+date: 2024-12-13T14:14:29.683Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
 # The Ideas Factory
+
+## The Start Page
+
+A website with different pluggins/widgets:
+
+- Todo
+- Bookmarks
+- Image gallery
+- Agenda
+- RSS
+
+### Competitors
+
+- https://floaters.app
+- https://start.me/
 
 ## Automatic Theater
 
