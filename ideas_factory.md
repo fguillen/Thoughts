@@ -2,7 +2,7 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2024-12-13T14:14:29.683Z
+date: 2024-12-13T14:17:51.646Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
