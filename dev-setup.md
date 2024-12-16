@@ -2,7 +2,7 @@
 title: Developer new computer setup
 description: List of steps to get the laptop ready for development
 published: true
-date: 2024-12-05T09:19:56.931Z
+date: 2024-12-16T20:47:19.789Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T09:19:56.931Z
@@ -67,6 +67,7 @@ brew install spotify
 
 ```
 brew install ffmpeg
+brew install imagemagick
 ```
 
 - https://handbrake.fr/
