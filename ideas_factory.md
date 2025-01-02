@@ -2,13 +2,25 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2025-01-02T20:19:49.776Z
+date: 2025-01-02T21:51:31.961Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
 # The Ideas Factory
+
+## I need a team (INAT)
+
+Social Network to pair people with a similar objective to build a team
+
+- Deep Profiles
+- Deep Request for a team
+- Request for participate in a team
+
+### Competitors
+
+- https://www.reddit.com/r/INAT/
 
 ## Cloud Lamp
 
@@ -18,7 +30,7 @@ A lamp that simulates a cloud:
 - Modular/extensible
 - APP control: different scenes: calm, wind, storm, colors, ...
 
-### Competitors:
+### Competitors
 
 - https://www.amazon.de/Simulation-Pendelleuchte-Kronleuchter-Deckenleuchte-Schlafzimmer/dp/B09M7FN4HX
 
