@@ -2,13 +2,25 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2024-12-13T14:17:51.646Z
+date: 2025-01-02T20:19:49.776Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
 # The Ideas Factory
+
+## Cloud Lamp
+
+A lamp that simulates a cloud:
+
+- Different sizes
+- Modular/extensible
+- APP control: different scenes: calm, wind, storm, colors, ...
+
+### Competitors:
+
+- https://www.amazon.de/Simulation-Pendelleuchte-Kronleuchter-Deckenleuchte-Schlafzimmer/dp/B09M7FN4HX
 
 ## The Start Page
 
