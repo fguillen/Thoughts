@@ -2,7 +2,7 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2025-01-02T21:51:31.961Z
+date: 2025-01-02T22:42:42.396Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
@@ -21,6 +21,11 @@ Social Network to pair people with a similar objective to build a team
 ### Competitors
 
 - https://www.reddit.com/r/INAT/
+- https://www.joinmyband.co.uk/
+- https://shootingpeople.org/
+- https://collabfinder.net/
+- https://www.teamfinder.gg/
+
 
 ## Cloud Lamp
 
