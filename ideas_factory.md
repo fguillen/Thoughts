@@ -2,13 +2,30 @@
 title: The Ideas Factory
 description: A list of crazy (or not) business ideas
 published: false
-date: 2025-01-02T22:42:42.396Z
+date: 2025-01-03T11:54:03.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:14:52.827Z
 ---
 
 # The Ideas Factory
+
+## Call to papis Children panic button
+
+A button in the wall that when you push it it will call to daddy or mamy.
+
+- Camera
+- Screeen (optional)
+- Mic and speaker
+
+### Competitors
+
+- All kind of [panic buttons](https://he.aliexpress.com/w/wholesale-panic-button-for-child.html).
+- https://www.reddit.com/r/homeassistant/comments/198zbg5/toddler_emergency_button/
+- https://ask.metafilter.com/379122/Phone-pager-buttons-so-my-kid-can-call-me-from-various-rooms
+
+But I haven't found any with camera and screen
+
 
 ## I need a team (INAT)
 
